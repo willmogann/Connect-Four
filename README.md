@@ -1,6 +1,6 @@
 # csc116-005-CE-08
 
-Names: William Morgan, Jake Pope, Joey Woodring
+Names: William Morgan, Jake Pope, Joey Woodring, Pierce Willoughby
 
 ## Report Document:
 
