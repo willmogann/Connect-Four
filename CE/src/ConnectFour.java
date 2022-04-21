@@ -5,6 +5,7 @@ import java.util.Scanner;
  * @author Joey Woodring
  * @author William Morgan
  * @author Jake Pope
+ * @author Pierce Willoughby
  */
 public class ConnectFour {
 
