@@ -1,5 +1,5 @@
 ---
-title: CSC116 Comprehensive Exercise
+title: Comprehensive Project
 description: "Client Idea: Connect Four"
 tags:  [software engineering, software lifecycle, CS1, CSC, client idea]
 navigation: false
